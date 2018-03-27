@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDo-List</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="task">Task </string>
+    <string name="title">Title</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_update_task">UpdateTask</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
